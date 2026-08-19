@@ -118,6 +118,7 @@ body{
 }
 .course_card{
     width: 350px;
+    margin-bottom: 30px;
 }
 
 .course_card img{
